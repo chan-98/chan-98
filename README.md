@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there 👋, I'm Chandini</h1>
 <h3 align="center">A multi-disciplinary enthusiast currently working in the field of bioinformatics focused on building high-throughput reproducible omics pipelines using Nextflow.</h3>
 
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavathiyani&label=Profile%20views&color=0e75b6&style=flat" alt="pranavathiyani" /> </p>-->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chan-98&label=Profile%20views&color=0e75b6&style=flat" alt="chan-98" /> </p>
 
 <!--<p align="left"> <a href="https://twitter.com/pranavathiyani" target="blank"><img src="https://img.shields.io/twitter/follow/pranavathiyani?logo=twitter&style=for-the-badge" alt="pranavathiyani" /></a> </p>-->
 
