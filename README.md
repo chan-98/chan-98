@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi there 👋, I'm Chandini</h1>
-<h3 align="center">A multi-disciplinary enthusiast currently working in the field of bioinformatics focused on building high-throughput reproducible omics pipelines using Nextflow.</h3>
+<h3 align="center">A multi-disciplinary enthusiast currently working in the field of bioinformatics, passionate about decoding the hidden messages in our genes.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chan-98&label=Profile%20views&color=0e75b6&style=flat" alt="chan-98" /> </p>
 
