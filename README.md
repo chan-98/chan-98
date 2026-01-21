@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
 
-### 🔝 GitHub Stats
+## 🔝 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=chan-98)
 
 ## 🏆 GitHub Trophies
