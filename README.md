@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
 
 ## 🔝 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=chan-98)
+![](https://github-readme-stats-one-liard-37.vercel.app/api?username=chan-98)
 
 ## 🏆 GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=chan-98&theme=discord&column=3&margin-w=15&margin-h=15)
